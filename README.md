@@ -1,6 +1,7 @@
 # QVoterSeeding.jl
 [![Static Badge](https://img.shields.io/badge/view-documentation-royalblue)](https://lipiecki.github.io/QVoterSeeding.jl/)
 [![Static Badge](https://img.shields.io/badge/view-paper-mediumpurple)](https://doi.org/10.1007/978-3-031-63759-9_8)
+[![Static Badge](https://img.shields.io/badge/view-preprint-forestgreen)](https://www.iccs-meeting.org/archive/iccs2024/papers/148340057.pdf)
 
 **Julia package for network seeding simulations under q-voter dynamics**
 
